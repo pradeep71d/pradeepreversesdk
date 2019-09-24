@@ -8,5 +8,13 @@ public class Abc {
       String rev=new StringBuffer(s1).reverse().toString();
       return rev;
   }
+
+  public int addition(int x, int y)
+  {
+
+      return x+y;
+
+  }
+
     }
 
