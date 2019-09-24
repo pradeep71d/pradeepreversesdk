@@ -1,0 +1,2 @@
+include ':app', ':string1lib'
+rootProject.name='Pradeepsdk'
